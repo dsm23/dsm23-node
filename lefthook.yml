@@ -4,13 +4,9 @@ pre-commit:
     prettier:
       run: ./node_modules/.bin/prettier --check {staged_files}
       glob:
-        - "*.css"
-        - "*.ts"
+        - "Dockerfile"
         - "*.js"
-        - "*.tsx"
-        - "*.jsx"
         - "*.md"
-        - "*.mdx"
         - "*.json"
         - "*.yml"
         - "*.yaml"
