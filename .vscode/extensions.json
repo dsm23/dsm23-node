@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "jasonnutter.vscode-codeowners",
+    "joshbolduc.commitlint",
+    "ms-azuretools.vscode-containers"
+  ],
+  "unwantedRecommendations": []
+}
